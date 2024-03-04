@@ -1,0 +1,32 @@
+#hero{
+    background-image: url(../images/dominik-schroder-FIKD9t5_5zQ-unsplash.jpg);
+    background-size: 100% 100%;
+}
+
+p{
+    text-align: left;
+}
+
+li{
+    padding-bottom: 5px;
+}
+
+#resume{
+    background-color: rgb(255, 247, 241);
+}
+
+#projects{
+    background-color: rgb(255, 228, 201);
+}
+
+#more{
+    background-color: rgb(231, 136, 149);
+}
+
+#footer{
+    background-color: rgb(190, 209, 207);
+    padding: 1rem;
+}
+
+
+
